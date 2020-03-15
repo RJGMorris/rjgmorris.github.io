@@ -2643,7 +2643,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .icons {
-		margin: -11em 0 0 0;
+		margin: -25vh 0 0 0;
 	}
 
 		#footer .icons a {
@@ -3023,10 +3023,10 @@ input, select, textarea {
 		/* Main */
 
 			#main {
-				margin-left: 30%;
+				margin-left: 25%;
 				max-width: none;
 				padding: 6em 3em 3em 3em;
-				width: calc(100% - 30%);
+				width: calc(100% - 25%);
 			}
 
 	}
